@@ -63,7 +63,7 @@ BlackPian0
 
 License
 -
-GPL v3
+GNU GPL v3
 
 References
 -
