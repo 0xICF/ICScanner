@@ -25,6 +25,8 @@ http://0xicf.wordpress.com/tools/ICScanner
 
 https://github.com/0xICF/ICScanner
 
+Final release date will be published soon
+
 
 How to Use
 -
