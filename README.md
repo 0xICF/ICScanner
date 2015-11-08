@@ -19,13 +19,12 @@ ICScanner developed for research purposes only, it is strongly recommended that 
 
 Download
 -
-ICScanner v1.0 Beta
+ICScanner v1.0 Beta - Final release date will be published soon
 
 http://0xicf.wordpress.com/tools/ICScanner
 
 https://github.com/0xICF/ICScanner
 
-Final release date will be published soon
 
 
 How to Use
