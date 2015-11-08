@@ -1,9 +1,11 @@
+ICScanner
+============
+
 ![Alt text](https://0xicf.files.wordpress.com/2015/11/banner.jpg "ICScanner - Industrial Control Systems Network Scanner ")
 
 
 
-ICScanner
-============
+
 Industrial Control Systems Network Scanner
 ============
 ICScanner is an industrial control system scanner and fuzzer tool allows to discover and map SCADA networks topology, finds SCADA slaves controllers in the network, enumerate different SCADA protocols, fingerprint target controllers and more.
