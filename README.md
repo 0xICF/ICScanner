@@ -2,8 +2,9 @@
 
 
 
+ICScanner
 
-ICScanner | Industrial Control Systems Network Scanner
+Industrial Control Systems Network Scanner
 ============
 ICScanner is an industrial control system scanner and fuzzer tool allows to discover and map SCADA networks topology, finds SCADA slaves controllers in the network, enumerate different SCADA protocols, fingerprint target controllers and more.
 ICScanner allow enumeration of single target device or complex SCADA network environments and support reconnaissance of many SCADA protocol includes Mobbus serial, Modbus TCP, DNP 3, Profinet, Siemens SIMATIC Step 7 and more
